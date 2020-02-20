@@ -15,6 +15,7 @@
 		8607A6AD23FEF68000A83498 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8607A6AB23FEF68000A83498 /* LaunchScreen.storyboard */; };
 		8607A6B823FEF68100A83498 /* InstagramTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8607A6B723FEF68100A83498 /* InstagramTests.swift */; };
 		8607A6C323FEF68100A83498 /* InstagramUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8607A6C223FEF68100A83498 /* InstagramUITests.swift */; };
+		8607A6D123FEF7AC00A83498 /* tempViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8607A6D023FEF7AC00A83498 /* tempViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8607A6BE23FEF68100A83498 /* InstagramUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InstagramUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8607A6C223FEF68100A83498 /* InstagramUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramUITests.swift; sourceTree = "<group>"; };
 		8607A6C423FEF68100A83498 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8607A6D023FEF7AC00A83498 /* tempViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tempViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				8607A6A023FEF68000A83498 /* AppDelegate.swift */,
 				8607A6A223FEF68000A83498 /* SceneDelegate.swift */,
+				8607A6D023FEF7AC00A83498 /* tempViewController.swift */,
 				8607A6A423FEF68000A83498 /* ViewController.swift */,
 				8607A6A623FEF68000A83498 /* Main.storyboard */,
 				8607A6A923FEF68000A83498 /* Assets.xcassets */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8607A6D123FEF7AC00A83498 /* tempViewController.swift in Sources */,
 				8607A6A523FEF68000A83498 /* ViewController.swift in Sources */,
 				8607A6A123FEF68000A83498 /* AppDelegate.swift in Sources */,
 				8607A6A323FEF68000A83498 /* SceneDelegate.swift in Sources */,
