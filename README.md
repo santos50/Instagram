@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<div class="tenor-gif-embed" data-postid="9295601" data-share-method="host" data-width="100%" data-aspect-ratio="1.3333333333333333"><a href="https://tenor.com/view/upload-gif-9295601">Upload Cat GIF</a> from <a href="https://tenor.com/search/upload-gifs">Upload GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<a href="https://gifyu.com/image/7U0K"><img src="https://s5.gifyu.com/images/inst405cde6cf2718dbf.md.gif" alt="inst405cde6cf2718dbf.gif" border="0" /></a>
