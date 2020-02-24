@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<div style='position:relative; padding-bottom:calc(217.07% + 44px)'><iframe src='https://gfycat.com/ifr/HandyCriminalBlackbuck' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+<div class="tenor-gif-embed" data-postid="9295601" data-share-method="host" data-width="100%" data-aspect-ratio="1.3333333333333333"><a href="https://tenor.com/view/upload-gif-9295601">Upload Cat GIF</a> from <a href="https://tenor.com/search/upload-gifs">Upload GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
