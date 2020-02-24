@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<iframe src='https://gfycat.com/ifr/HandyCriminalBlackbuck' frameborder='0' scrolling='no' allowfullscreen width='640' height='1433'></iframe>
